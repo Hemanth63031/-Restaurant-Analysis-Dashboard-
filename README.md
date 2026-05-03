@@ -2,7 +2,7 @@
 
 This project analyzes sales data for a local restaurant in Vishakapatnam to uncover insights related to customer demand, item performance, seasonal trends, and order behavior (Online vs Offline). The dashboard is built using Power BI, with data processing performed in Excel, SQL Server, and Power Query.
 ## 📷 Dashboard Preview
-
+![image alt](https://github.com/Hemanth63031/-Restaurant-Analysis-Dashboard-/blob/72e7f98bab6b374e395070475a3a31eb4b219761/Screenshot%20(121).png)
 
 ## 📌 Project Overview
 
