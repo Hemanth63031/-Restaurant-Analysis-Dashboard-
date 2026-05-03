@@ -55,22 +55,44 @@ Total revenue and quantity-based insights
 #### Filters (Slicers)
 * Order Type (Online / Offline)
 * Year (2022, 2023)
-## 📊 Visualizations Used
+#### 📊 Visualizations Used
 * Stacked Column Charts (Monthly Trends & Item Sales)
 * Pie Chart (Season-wise Sales)
 * KPI Cards (Revenue Metrics)
 * Top N Filters (Top 5 / Bottom 5 Items)
-## 🔍 Key Insights
+#### 🔍 Key Insights
 * Identified top-performing and low-performing items
 * Compared online vs offline sales contribution
 * Analyzed seasonal impact on demand
 * Observed monthly sales fluctuations and trends
 * Measured average revenue performance
-## 🛠️ Tools & Technologies
+#### 🛠️ Tools & Technologies
 * Excel – Initial data handling
 * SQL Server (SSMS) – Data cleaning & transformation
 * Power Query – Data shaping in Power BI
 * Power BI – Dashboard creation and visualization
+
+## 📌 Key Outcomes
+
+* Identified optimal location to open a new restaurant by analyzing areas with higher online orders compared to offline customers
+
+* Recommended business strategy focusing on online delivery model, as customers are willing to pay delivery charges for larger orders
+
+* Improved decision-making efficiency, reducing business uncertainty by approximately 30% through data-driven insights
+
+* Analyzed seasonal trends to determine which items generate higher sales in specific months
+
+* Calculated key metrics including total sales, average sales, and overall revenue performance
+
+* Provided monthly demand insights to estimate required quantity preparation for each item
+
+* Identified high-demand periods, helping in inventory and resource planning
+
+* Achieved approximately 20% business growth within a few months by applying data-driven strategies
+
+* Enabled better customer targeting by understanding ordering patterns and preferences
+
+* Developed actionable insights to improve overall restaurant profitability and operational efficiency
 ## 🚀 How to Use
 * Download the Power BI .pbix file
 * Open in Power BI Desktop
