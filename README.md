@@ -16,14 +16,14 @@ Year-wise and Season-wise performance
 Average sales analysis
 Total revenue and quantity-based insights
 ## 📂 Data Processing Workflow
-Excel → CSV Conversion
-Converted raw Excel file into CSV format for easier processing
-SQL Server (SSMS)
-Imported CSV into SQL Server Management Studio
-Cleaned data (handled nulls, formatting issues)
-Changed data types appropriately
-Created calculated fields:
-Revenue = Final Amount × Quantity
+### Excel → CSV Conversion
+* Converted raw Excel file into CSV format for easier processing
+* SQL Server (SSMS)
+* Imported CSV into SQL Server Management Studio
+* Cleaned data (handled nulls, formatting issues)
+* Changed data types appropriately
+* Created calculated fields:
+* Revenue = Final Amount × Quantity
 Power BI
 Connected to SQL Server
 Used Power Query for additional transformations
