@@ -24,7 +24,7 @@ Total revenue and quantity-based insights
 * Changed data types appropriately
 * Created calculated fields:
 * Revenue = Final Amount × Quantity
-Power BI
+** Power BI
 Connected to SQL Server
 Used Power Query for additional transformations
 Built interactive dashboard and visuals
