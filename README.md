@@ -40,7 +40,7 @@ Total revenue and quantity-based insights
 * Quantity
 * Revenue
 ## 📈 Dashboard Features
-🔹 KPIs
+#### KPIs
 Total Revenue
 Average Revenue per Item
 🔹 Trend Analysis
