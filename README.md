@@ -16,7 +16,7 @@ Year-wise and Season-wise performance
 Average sales analysis
 Total revenue and quantity-based insights
 ## 📂 Data Processing Workflow
-### Excel → CSV Conversion
+* Excel → CSV Conversion
 * Converted raw Excel file into CSV format for easier processing
 * SQL Server (SSMS)
 * Imported CSV into SQL Server Management Studio
@@ -24,21 +24,21 @@ Total revenue and quantity-based insights
 * Changed data types appropriately
 * Created calculated fields:
 * Revenue = Final Amount × Quantity
-** Power BI
-Connected to SQL Server
-Used Power Query for additional transformations
-Built interactive dashboard and visuals
+* Power BI
+* Connected to SQL Server
+* Used Power Query for additional transformations
+* Built interactive dashboard and visuals
 ## 📊 Dataset Details
-Time Period: Jan 2022 – Aug 2023
-Location: Vishakapatnam (Local Restaurant)
-Key Columns:
-Date
-Item
-Season (Summer, Rainy, Winter)
-Order Type (Online / Offline)
-Amount
-Quantity
-Revenue
+### Time Period: Jan 2022 – Aug 2023
+### Location: Vishakapatnam (Local Restaurant)
+* Key Columns:
+ Date
+ Item
+* Season (Summer, Rainy, Winter)
+* Order Type (Online / Offline)
+* Amount
+* Quantity
+* Revenue
 ## 📈 Dashboard Features
 🔹 KPIs
 Total Revenue
