@@ -41,42 +41,42 @@ Total revenue and quantity-based insights
 * Revenue
 ## 📈 Dashboard Features
 #### KPIs
-Total Revenue
-Average Revenue per Item
-🔹 Trend Analysis
-Monthly Sales Trend (Stacked Column Chart)
-Year-wise Sales Comparison (2022 vs 2023)
-🔹 Item Performance
-Top 5 Items (by Month / Season / Overall)
-Bottom 5 Items
-🔹 Sales Insights
-Online vs Offline Sales Comparison
-Season-wise Sales Distribution (Pie Chart)
-🔹 Filters (Slicers)
-Order Type (Online / Offline)
-Year (2022, 2023)
+* Total Revenue
+* Average Revenue per Item
+#### Trend Analysis
+* Monthly Sales Trend (Stacked Column Chart)
+* Year-wise Sales Comparison (2022 vs 2023)
+#### Item Performance
+* Top 5 Items (by Month / Season / Overall)
+* Bottom 5 Items
+#### Sales Insights
+* Online vs Offline Sales Comparison
+* Season-wise Sales Distribution (Pie Chart)
+#### Filters (Slicers)
+* Order Type (Online / Offline)
+* Year (2022, 2023)
 ## 📊 Visualizations Used
-Stacked Column Charts (Monthly Trends & Item Sales)
-Pie Chart (Season-wise Sales)
-KPI Cards (Revenue Metrics)
-Top N Filters (Top 5 / Bottom 5 Items)
+* Stacked Column Charts (Monthly Trends & Item Sales)
+* Pie Chart (Season-wise Sales)
+* KPI Cards (Revenue Metrics)
+* Top N Filters (Top 5 / Bottom 5 Items)
 ## 🔍 Key Insights
-Identified top-performing and low-performing items
-Compared online vs offline sales contribution
-Analyzed seasonal impact on demand
-Observed monthly sales fluctuations and trends
-Measured average revenue performance
+* Identified top-performing and low-performing items
+* Compared online vs offline sales contribution
+* Analyzed seasonal impact on demand
+* Observed monthly sales fluctuations and trends
+* Measured average revenue performance
 ## 🛠️ Tools & Technologies
-Excel – Initial data handling
-SQL Server (SSMS) – Data cleaning & transformation
-Power Query – Data shaping in Power BI
-Power BI – Dashboard creation and visualization
+* Excel – Initial data handling
+* SQL Server (SSMS) – Data cleaning & transformation
+* Power Query – Data shaping in Power BI
+* Power BI – Dashboard creation and visualization
 ## 🚀 How to Use
-Download the Power BI .pbix file
-Open in Power BI Desktop
-Use slicers to explore:
-Year-wise performance
-Online vs Offline comparison
-Item-level insights
+* Download the Power BI .pbix file
+* Open in Power BI Desktop
+* Use slicers to explore:
+- Year-wise performance
+- Online vs Offline comparison
+* Item-level insights
 
 
