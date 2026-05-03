@@ -9,12 +9,12 @@ This project analyzes sales data for a local restaurant in Vishakapatnam to unco
 The client provided raw data in Excel format covering the period from January 2022 to August 2023.
 The goal was to transform the data and build an interactive dashboard to answer key business questions such as:
 
-Monthly sales trends
-Top 5 and Bottom 5 performing items
-Online vs Offline sales comparison
-Year-wise and Season-wise performance
-Average sales analysis
-Total revenue and quantity-based insights
+* Monthly sales trends
+* Top 5 and Bottom 5 performing items
+* Online vs Offline sales comparison
+* Year-wise and Season-wise performance
+* Average sales analysis
+* Total revenue and quantity-based insights
 ## 📂 Data Processing Workflow
 * Excel → CSV Conversion
 * Converted raw Excel file into CSV format for easier processing
